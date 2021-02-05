@@ -35,7 +35,7 @@
   You will also see any lint errors in the console.
   
 ## Image
-![Employee-Directory](./public/Assets/Employee-Directory-Screenshot.jpg)
+![Employee-Directory](../public/Assets/Employee-Directory-Screenshot.jpg)
 ## Links
   * Deployed link to Heroku: https://employee-directory-enxhis.herokuapp.com/
   * GitHub repository link:  https://github.com/Enxhis/Employee-Directory
