@@ -19,8 +19,7 @@ const FilterEmployees = ({ employees, updateEmployees }) => {
     return (
         <div className="filter-data">
             <p className='sub-header'>
-                To filter by first name, please begin your search in the user input
-                below!
+                To filter by first name, please begin your search in the user input!
             </p>
             <input className='input-box' value={inputValue} onChange={e => updateInput(e.target.value)} />
         </div>
