@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
-import './style.css'
+import './style.css';
+
 const EmployeeTable = ({ employees }) => {
     const [sortedEmployees, updateSortedEmployees] = useState([]);
     useEffect(() => updateSortedEmployees(employees), [employees]);
@@ -43,7 +44,6 @@ const EmployeeTable = ({ employees }) => {
                         <th scope="col">State</th>
                         <th scope="col">Country</th>
                         <th scope="col">Zip Code</th>
-                        {/* <th scope="col">picture</th> */}
                     </tr>
                 </thead>
                 <tbody className='table-data'>
