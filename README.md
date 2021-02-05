@@ -37,6 +37,8 @@
 ## Image
 
 ## Links
+  * Deployed link to Heroku: https://employee-directory-enxhis.herokuapp.com/
+  * GitHub repository link:  https://github.com/Enxhis/Employee-Directory
 
 ## Contribution
   * Enxhi Salaj
