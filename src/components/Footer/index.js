@@ -1,5 +1,6 @@
-import React from 'react'
-import './style.css'
+import React from 'react';
+import './style.css';
+
 function Footer() {
     return (
         <footer className="footer">
@@ -9,7 +10,7 @@ function Footer() {
             <p className="copyright">© Enxhi Salaj 2021</p>
 
         </footer>
-    )
-}
+    );
+};
 
 export default Footer;
